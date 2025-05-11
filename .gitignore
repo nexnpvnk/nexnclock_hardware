@@ -1,0 +1,16 @@
+# Altium project do not version
+
+# Folders
+
+*/Project Logs for*/*
+*/History/*
+*\__Previews
+*\History
+
+# Files
+
+*.PrjPCBStructure
+*.SchDocPreview
+*.PcbDocPreview
+*.PrjPcbStructure
+*~$*
