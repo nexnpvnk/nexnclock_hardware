@@ -15,4 +15,5 @@ History
 *.SchDocPreview
 *.PcbDocPreview
 *.PrjPcbStructure
+*.PrjMbdStructure
 *~$*
