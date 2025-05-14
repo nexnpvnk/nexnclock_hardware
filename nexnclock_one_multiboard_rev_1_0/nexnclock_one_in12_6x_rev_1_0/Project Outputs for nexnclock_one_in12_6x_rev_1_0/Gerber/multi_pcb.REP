@@ -2,51 +2,8 @@
 FileName = multi_pcb.GBR
 AutoAperture = True
 *************************************************************
-Generating : Top Overlay
-      File : multi_pcb.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D15
-    D26
-    D27
-*************************************************************
-
-*************************************************************
-Generating : Top Solder
-      File : multi_pcb.GTS
-
-    Adding Layer      : Top Solder
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D19
-    D25
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : multi_pcb.GBS
-
-    Adding Layer      : Bottom Solder
+Generating : Bottom Layer
+      File : multi_pcb.GBL
 
     Adding Layer      : Bottom Layer
 
@@ -54,41 +11,26 @@ Generating : Bottom Solder
 
 
 Used DCodes :
+    D10
+    D14
+    D15
+    D16
+    D17
+    D18
     D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
     D31
     D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : multi_pcb.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D15
-    D26
-    D41
-*************************************************************
-
-*************************************************************
-Generating : Keep-Out Layer
-      File : multi_pcb.GKO
-
-    Adding Layer      : Keep-Out Layer
-
-
-Used DCodes :
-    D42
 *************************************************************
 
 *************************************************************
@@ -120,8 +62,51 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Layer
-      File : multi_pcb.GBL
+Generating : Top Overlay
+      File : multi_pcb.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D32
+    D33
+    D34
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : multi_pcb.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D16
+    D25
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : multi_pcb.GBS
+
+    Adding Layer      : Bottom Solder
 
     Adding Layer      : Bottom Layer
 
@@ -129,17 +114,40 @@ Generating : Bottom Layer
 
 
 Used DCodes :
-    D10
-    D14
     D16
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : multi_pcb.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D14
+    D32
+    D33
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : multi_pcb.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D48
 *************************************************************
 
